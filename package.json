@@ -2,9 +2,17 @@
   "name": "express-simple-starter",
   "private": true,
   "scripts": {
-    "start": "node index.js"
+    "start": "node server.js"
   },
   "dependencies": {
+    "dotenv": "^16.4.7",
     "express": "^4.18.2"
-  }
+  },
+  "version": "1.0.0",
+  "description": "This lab exercise focuses on:",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "keywords": []
 }
